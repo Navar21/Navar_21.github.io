@@ -1,0 +1,366 @@
+body 
+{
+    height: 50rem;
+    background-size: 100%;
+    background-image: linear-gradient(-90deg, whitesmoke, black);
+}
+
+#MainContainer
+{
+    max-width: 100rem;
+}
+
+.centerDiv
+{
+    height: 32rem;
+    width: 70rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+#Container1
+{
+    height: 32rem;
+    width: 24rem;
+    margin-top: 0rem;
+    margin-bottom: 10rem;
+    background-color: white;
+    float: left;
+}
+
+#GradPic
+{
+    height: 30rem;
+    width: 22.5rem;
+    max-width: 100%;
+    margin-top: 1rem; 
+    margin-bottom: 0rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+}
+
+#Container2
+{
+    height: 32rem;
+    width: 20rem;
+    margin-top: 0rem;
+    margin-bottom: -5rem;
+    background-color: white;
+    float: left;
+}
+
+#Container2-AboutMe
+{
+    height: 5rem;
+    width: 5rem;
+    margin-top: 0rem;
+    margin-bottom: 10rem;
+    font-size: 200%;
+}
+
+#Container2-Education
+{
+    height: 5rem;
+    width: 5rem;
+    margin-top: -10rem;
+    margin-bottom: 10rem;
+    font-size: 200%;
+}
+
+#Container2-Employment
+{
+    height: 5rem;
+    width: 5rem;
+    margin-top: -10rem;
+    margin-bottom: 10rem;
+    font-size: 200%;
+}
+
+#Container2-Certificates
+{
+    height: 5rem;
+    width: 5rem;
+    margin-top: -10rem;
+    margin-bottom: 10rem;
+    font-size: 200%;
+}
+
+#Container2-Projects
+{
+    height: 5rem;
+    width: 5rem;
+    margin-top: -10rem;
+    margin-bottom: 10rem;
+    font-size: 200%;
+}
+
+#Container2-AboutMe.w3-button
+{
+    width: 200rem;
+    height: 7%;
+    padding-top: 5%;
+    padding-bottom: 14%;
+}
+
+#Container2-Education.w3-button
+{
+    width: 200rem;
+    height: 7%;
+    padding-bottom: 14%;
+}
+
+#Container2-Employment.w3-button
+{
+    width: 200rem;
+    height: 7%;
+    padding-bottom: 14%;
+}
+
+#Container2-Certificates.w3-button
+{
+    width: 200rem;
+    height: 7%;
+    padding-bottom: 14%;
+}
+
+#Container2-Projects.w3-button
+{
+    width: 200rem;
+    height: 7%;
+    padding-bottom: 14%;
+}
+
+#Container3
+{
+    height: 32rem;
+    width: 26rem;
+    margin-top: -42rem;
+    margin-bottom: -10rem;
+    margin-left: 44rem;
+    background-color: whitesmoke;
+    float: left;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+#PythonProgress
+{
+    background: black;
+    width: 100%;
+}
+
+#HTMLProgress
+{
+    background: black;
+    width: 75%;
+}
+
+#CSSProgress
+{
+    background: black;
+    width: 75%;
+}
+
+#CPlusPlusProgress
+{
+    background: black;
+    width: 50%;
+}
+
+#JavaProgress
+{
+    background: black;
+    width: 50%;
+}
+
+#VerilogProgress
+{
+    background: black;
+    width: 75%;
+}
+
+#Employment
+{
+    padding-bottom: 5rem;
+}
+
+#pills-CTDI-tab
+{
+    background-color: black;
+    color: white;
+}
+
+#pills-BWW-tab
+{
+    background-color: black;
+    color: white;
+    margin-left: 0.1rem;
+}
+
+#pills-Live-Nation-tab
+{
+    background-color: black;
+    color: white;
+    margin-left: 0.1rem;
+}
+
+#Certificates
+{
+    margin-left: -1.5rem;
+    padding-left: 5rem;
+    padding-bottom: 18rem;
+}
+
+#Pic1Button
+{
+    padding: 0rem;
+    border: 0rem;
+    background: 0rem;
+}
+
+#Pic1
+{
+    height: 5rem;
+    width: 15rem;
+}
+
+#ModalCertificateJava
+{
+    height: 27rem;
+    width: 31rem;
+}
+
+#Pic2Button
+{
+    padding: 0rem;
+    border: 0rem;
+    background: 0rem;
+}
+
+#Pic2
+{
+    height: 5rem;
+    width: 15rem;
+}
+
+#ModalCertificateSQL
+{
+    height: 27rem;
+    width: 31rem;
+}
+
+#Pic3Button
+{
+    padding: 0rem;
+    border: 0rem;
+    background: 0rem;
+}
+
+#Pic3
+{
+    height: 5rem;
+    width: 15rem;
+}
+
+#ModalCertificateUdemy
+{
+    height: 27rem;
+    width: 31rem;
+}
+
+#FacebookIcon
+{
+    color: whitesmoke;
+    font-size: 10rem;
+    margin-top: 2rem;
+    margin-left: -56rem;
+}
+
+#InstagramIcon
+{
+    color: whitesmoke;
+    font-size: 10rem;
+    margin-top: 2rem;
+    margin-left: 0rem;
+}
+
+#TwitterIcon
+{
+    color: whitesmoke;
+    font-size: 10rem;
+    margin-top: 2rem;
+    margin-left: 0rem;
+}
+
+#LinkedInIcon
+{
+    color: whitesmoke;
+    font-size: 10rem;
+    margin-top: 2rem;
+    margin-left: 0rem;
+}
+
+@media screen and (min-width: 280px) and (max-width: 480px) 
+{
+    body 
+    {
+        background-repeat: no-repeat;
+        background-size: 350% 200%;
+        height: 100rem;
+    }
+
+    .centerDiv
+    {
+        margin-left: 0rem;
+        margin-right: 29rem;
+    }
+
+    #Container4
+    {
+        width: 0rem;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px)
+{
+    body
+    {
+        background-repeat: no-repeat;
+        background-size: 350% 200%;
+        width: 0%;
+    }
+
+    .centerDiv
+    {
+        margin-left: 0rem;
+        margin-right: 30rem;
+    }
+
+    #Container4
+    {
+        width: 0rem;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px)
+{
+    body 
+    {
+        background-repeat: no-repeat;
+        background-size: 350% 200%;
+        width: 0%
+    }
+
+    .centerDiv{
+        margin-left: 0rem;
+        margin-right: 25rem;
+    }
+
+    #Container4
+    {
+        width: 0rem;
+    }
+}
