@@ -187,10 +187,17 @@ body
     padding-bottom: 5rem;
 }
 
+#pills-Infosys-tab
+{
+    background-color: black;
+    color: white;
+}
+
 #pills-CTDI-tab
 {
     background-color: black;
     color: white;
+    margin-left: 0.1 rem;
 }
 
 #pills-BWW-tab
@@ -321,6 +328,7 @@ body
     #Container4
     {
         width: 0rem;
+        margin: 0 auto;
     }
 }
 
